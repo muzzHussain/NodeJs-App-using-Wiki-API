@@ -1,22 +1,11 @@
 {
-  "name": "simple-nodejs-app",
+  "name": "Nodejs-app-using-wiki-api",
   "version": "1.0.0",
-  "description": "Research about a person",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.jsn",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rat9615/simple-nodejs-app.git"
-  },
-  "author": "Rohan R",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rat9615/simple-nodejs-app/issues"
-  },
-  "homepage": "https://github.com/rat9615/simple-nodejs-app#readme",
   "dependencies": {
     "ejs": "^3.1.7",
     "express": "^4.17.3",
