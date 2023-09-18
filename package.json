@@ -1,5 +1,5 @@
 {
-  "name": "Nodejs-app-using-wiki-api",
+  "name": "nodejs-app-using-wiki-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
